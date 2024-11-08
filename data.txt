@@ -1,0 +1,4 @@
+*Admin user*
+
+username: admin
+password: Test@123
